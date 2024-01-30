@@ -1,8 +1,16 @@
-### Hi there 👋
+## Hello! Welcome to my profile! My GitHub username is LJ9859, but you can call me LJ for short. 👋
+### Here are some things about myself:
+- 👾 Always finding malware samples (Rogues especially! 😅)
+- 📘 My main repository is LJ9859/Malware-Database ( https://www.github.com/lj9859/malware-database )
+- 🚫🍴 Not accepting fork requests or pull requests at the moment
+- 👀 If you want to contribute/add your own sample, open up an issue in the issues tab, link where the file is (must be from github), and password if there is one, and I will see if I can add it or not. If you made it, please specify so I can put it in the "Viewer-Made-Malware" folder.
+- 😎 Pronouns: He/Him/His
+- 💪 I try to be on GitHub atleast once a day. Got to keep that streak, you know?
+# I hope you enjoy my profile and my repositorys!
 
 <!--
 **LJ9859/LJ9859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+lol im leaving this text here because why not
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

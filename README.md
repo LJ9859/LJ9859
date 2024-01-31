@@ -13,7 +13,7 @@
 ### "ITS A BURNING SUPER DEATH SWORD!" - Vinesauce Joel, 2014  https://youtu.be/TDpxx5UqrVU?t=214
 # I hope you enjoy my profile and my repositorys!
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LJ9859&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="LJ's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LJ9859&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="LJ's github stats" /></a> |
 
 <!--
 **LJ9859/LJ9859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

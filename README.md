@@ -8,6 +8,8 @@
 - 😎 Pronouns: He/Him/His
 - 💪 I try to be on GitHub atleast once a day. Got to keep that streak, you know?
 - 🦠 The Desktop Buddies and Antivirus Rogues are the most interesting samples for me!
+- ⚔️ My profile picture is A BURNING SUPER DEATH SWORD
+### "ITS A BURNING SUPER DEATH SWORD!" - Vinesauce Joel, 2014  https://youtu.be/TDpxx5UqrVU?t=214
 # I hope you enjoy my profile and my repositorys!
 
 <!--

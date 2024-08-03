@@ -9,7 +9,7 @@
 - 💪 I try to be on GitHub atleast twice a week.
 - 🦠 The Desktop Buddies and Antivirus Rogues are the most interesting samples for me!
 - ⚔️ My profile picture is A BURNING SUPER DEATH SWORD
-- 💻 I know the basics of the Batch, HTML, and Scratch (Scratch.mit.edu , my username on there is BearLert) programming languages and can code a couple simple scripts.
+- 💻 I know the basics of the Batch, HTML, and Scratch ( Scratch.mit.edu , my username on there is BearLert) programming languages and can code a couple simple scripts.
 ### "ITS A BURNING SUPER DEATH SWORD!" - Vinesauce Joel, 2014  https://youtu.be/TDpxx5UqrVU?t=214
 # I hope you enjoy my profile and my repositorys!
 

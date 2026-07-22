@@ -5,13 +5,11 @@
 - 👾 Avid malware collector, researcher, and enjoyer. ( https://www.github.com/lj9859/malware-database )
 - 🔭 I’m currently working on the Malware Database, my website, and my YouTube channel!
 - 💥 I film Windows Destructions on my channel, which are very fun to watch! ( https://www.youtube.com/@DestroyingWindowsLol )
-- - ⚔️ My profile picture is A **BURNING SUPER DEATH SWORD**
+- ⚔️ My profile picture is A **BURNING SUPER DEATH SWORD**
 - 📫 How to reach me: @lj9859 on Discord
 ### "ITS A BURNING SUPER DEATH SWORD!" - Vinesauce Joel, 2014  https://youtu.be/TDpxx5UqrVU?t=214
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LJ9859&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="LJ's github stats" /></a> |
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LJ9859)](https://git.io/streak-stats)
+[![LJ9859's GitHub stats](https://github-stats-extended.vercel.app/api?username=lj9859)](https://github.com/stats-organization/github-stats-extended) [![GitHub Streak](https://streak-stats.demolab.com/?user=LJ9859)](https://git.io/streak-stats)
 
 <!--
 **LJ9859/LJ9859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

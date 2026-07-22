@@ -1,16 +1,13 @@
-## Hello! Welcome to my profile! My GitHub username is LJ9859, but you can call me LJ for short. 👋
-### Here are some things about myself:
-- 👾 Always finding malware samples (Rogues especially! 😅)
-- 📘 My main repository is LJ9859/Malware-Database ( https://www.github.com/lj9859/malware-database )
-- 🏳️‍🌈 I welcome anyone, including LGBTQ+ people, and also any religions (**I am agnostic**), races, backgrounds, or genders.
-- 👀 If you want to contribute/add your own sample to the Malware-Database, open up an issue in the issues tab, link where the file is (must be from GitHub), and password if there is one, and I will see if I can add it or not. If you made it, please specify so I can put it in the "Viewer-Made-Malware" folder.
-- 😎 Pronouns: He/Him/His
-- 💪 I try to be on GitHub atleast twice a week.
-- 🦠 The Desktop Buddies and Antivirus Rogues are the most interesting samples for me!
-- ⚔️ My profile picture is A BURNING SUPER DEATH SWORD
-- 💻 I know the basics of the Batch, HTML, and Scratch ( Scratch.mit.edu , my username on there is BearLert) programming languages and can code a couple simple scripts.
+## Heyo, what brings you here? My name is LJ9859, but you can also call me LJ.
+### My interests:
+- 🖥️ Computer user, enthusiast, collector, malware tester, coder, and archiver since 2021.
+- 🖥️ Can code Python, Batch, CSS, HTML5, and Scratch.
+- 👾 Avid malware collector, researcher, and enjoyer. ( https://www.github.com/lj9859/malware-database )
+- 🔭 I’m currently working on the Malware Database, my website, and my YouTube channel!
+- 💥 I film Windows Destructions on my channel, which are very fun to watch! ( https://www.youtube.com/@DestroyingWindowsLol )
+- - ⚔️ My profile picture is A **BURNING SUPER DEATH SWORD**
+- 📫 How to reach me: @lj9859 on Discord
 ### "ITS A BURNING SUPER DEATH SWORD!" - Vinesauce Joel, 2014  https://youtu.be/TDpxx5UqrVU?t=214
-# I hope you enjoy my profile and my repositorys!
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LJ9859&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="LJ's github stats" /></a> |
 

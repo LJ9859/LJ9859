@@ -1,10 +1,11 @@
 ## Heyo, what brings you here? My name is LJ9859, but you can also call me LJ.
 ### My interests:
-- 🖥️ Computer user, enthusiast, collector, malware tester, coder, and archiver since 2021.
-- 🖥️ Can code Python, Batch, CSS, HTML5, and Scratch.
+- 🖥️ Computer user, enthusiast, collector, malware tester, coder, and archivist since 2021.
+- 🖥️ Can code in Python, Batch, CSS, HTML5, and Scratch.
 - 👾 Avid malware collector, researcher, and enjoyer. ( https://www.github.com/lj9859/malware-database )
+- ⌨️ Certified to type up to 130WPM
 - 🔭 I’m currently working on the Malware Database, my website, and my YouTube channel!
-- 💥 I film Windows Destructions on my channel, which are very fun to watch! ( https://www.youtube.com/@DestroyingWindowsLol )
+- 💥 Tech YouTuber, who makes Windows Destructions ( https://www.youtube.com/@DestroyingWindowsLol )
 - ⚔️ My profile picture is A **BURNING SUPER DEATH SWORD**
 - 📫 How to reach me: @lj9859 on Discord
 ### "ITS A BURNING SUPER DEATH SWORD!" - Vinesauce Joel, 2014  https://youtu.be/TDpxx5UqrVU?t=214

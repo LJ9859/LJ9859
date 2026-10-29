@@ -1,4 +1,4 @@
-## Heyo, what brings you here? My name is LJ9859, but you can also call me LJ.
+## Hello, what brings you here? I'm LJ, and thanks for visiting my profile.
 ### My interests:
 - 🖥️ Computer user, enthusiast, collector, malware tester, coder, and archivist since 2021.
 - 🖥️ Can code in Python, Batch, CSS, HTML5, and Scratch.
@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on the Malware Database, my website, and my YouTube channel!
 - 💥 Tech YouTuber, who makes Windows Destructions ( https://www.youtube.com/@DestroyingWindowsLol )
 - ⚔️ My profile picture is A **BURNING SUPER DEATH SWORD**
-- 📫 How to reach me: @lj9859 on Discord
+- 📫 How to reach me: @lj9859 on Discord, Twitter, Reddit, and TikTok, @lj9859.bsky.app on Bluesky, @lj9859wastaken on Instagram, and lj9859inquiries@gmail.com
 ### "ITS A BURNING SUPER DEATH SWORD!" - Vinesauce Joel, 2014  https://youtu.be/TDpxx5UqrVU?t=214
 
 [![LJ9859's GitHub stats](https://github-stats-extended.vercel.app/api?username=lj9859)](https://github.com/stats-organization/github-stats-extended) [![GitHub Streak](https://streak-stats.demolab.com/?user=LJ9859)](https://git.io/streak-stats)
